@@ -1,0 +1,10 @@
+* cl-feedparser
+
+Common Lisp feed parser
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ruricolist/cl-feedparser.git   |
+| commit  | 74422b5  |
+| systems | cl-feedparser |
+|---------+-------------------------------------------|
+
